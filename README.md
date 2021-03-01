@@ -1,4 +1,4 @@
-# Webathon_Project
+# Online food ordering website
 Hello Everyone, 
       In this Repo, I made a simple food portal website and there are many features included which are ordering food online,
       Bulk order, food catering,etc. 
